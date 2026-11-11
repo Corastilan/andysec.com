@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="mx-auto max-w-2xl px-6 py-16 text-zinc-900 dark:text-zinc-100">
+    <main className="mx-auto max-w-2xl px-6 py-16 text-zinc-100">
       <h1 className="mb-4 text-3xl font-semibold">
         <a href="#andy-then">Andy Then</a>
       </h1>
